@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "funcaoRecursiva": "clear && tsc && node ./build/funcaoRecursiva.js"
+    "funcaoRecursiva": "clear && tsc && node ./build/funcaoRecursiva.js",
+    "logicaDeProgamacao": "clear && tsc && node ./build/logicaDeProgamacao.js"
    
   },
   "author": "",
